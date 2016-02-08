@@ -4,6 +4,7 @@ gem "awesome_rails_console"
 gem "devise"
 gem "paperclip"
 gem 'bootstrap-sass'
+gem 'searchkick'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'
