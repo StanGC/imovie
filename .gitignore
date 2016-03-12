@@ -16,3 +16,4 @@
 !/log/.keep
 /tmp
 /public/systems/movies/images
+/config/application.yml

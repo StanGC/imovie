@@ -5,6 +5,9 @@ gem "devise"
 gem "paperclip"
 gem 'bootstrap-sass'
 gem 'searchkick'
+gem 'omniauth-google-oauth2'
+gem 'settingslogic'
+
   group :production do
     gem "pg"
     gem "rails_12factor"
